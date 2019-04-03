@@ -19,4 +19,4 @@
  Run example project.
  
  To get step by step guide kindly check our guide to sign in using linkedIn at:
- (https://www.google.com)
+ (https://www.elsner.com/linkedin-sign-in-using-oauth-2-0-update-on-ios-apps/)
